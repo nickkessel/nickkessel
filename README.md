@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nickkessel
-- 👀 I’m interested in everything to do with programming
-- 🌱 I’m currently learning Java in Android Studio, C# in Unity, and HTML and CSS for my portfolio
+- 🌱 I’m currently learning Python, Blender3D, Photography, and Web Development
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me @nickkessel.co on Instagram, or email me nickkessel22@protonmail.com
 
