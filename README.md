@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nickkessel
-- 🌱 I’m currently learning Python, Blender3D, Photography, and Web Development
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me @nickkessel.co on Instagram, or email me nickkessel22@protonmail.com
+- 🌱 Meteorology student @ central michigan university
+- 📫 How to reach me: kesse1ni@cmich.edu
 
 <!---
 nickkessel/nickkessel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
