@@ -1,5 +1,5 @@
-- 🌱 Meteorology student @ central michigan university
-- 📫 How to reach me: kesse1ni@cmich.edu
+met student @ central michigan university
+How to reach me: kesse1ni@cmich.edu
 
 <!---
 nickkessel/nickkessel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
