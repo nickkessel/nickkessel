@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @nickkessel
 - 🌱 Meteorology student @ central michigan university
 - 📫 How to reach me: kesse1ni@cmich.edu
 
